@@ -1,0 +1,1 @@
+cmd_/home/jammy/mxu11x0/driver/mxu11x0.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jammy/mxu11x0/driver/mxu11x0.ko /home/jammy/mxu11x0/driver/mxu11x0.o /home/jammy/mxu11x0/driver/mxu11x0.mod.o
